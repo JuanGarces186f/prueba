@@ -1,6 +1,3 @@
 Hola mundo desde GIT
 <<<<<<< HEAD
 Hola desde otra linea hola desde al ladito
-=======
-Hola desde otra lineas
->>>>>>> e3df298cf4ba27e3c013e23363aebcbf2dc6115e
